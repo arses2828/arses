@@ -1,0 +1,13 @@
+{
+  "name": "arses-panel",
+  "version": "1.0.0",
+  "description": "Arses - پنل مدیریت نت ملی و نت بین‌الملل",
+  "main": "server.js",
+  "private": true,
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
